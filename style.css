@@ -78,7 +78,7 @@ p.credit a { color: #fff; }
 #footer p, #footer div.half:nth-child(1) a { color:#738f93; }
 
 /* backgrounds */
-#BodyBack { background:#0e141e url(Images/Cover_Review.jpg) fixed no-repeat top right; background-size: 100%; }
+#BodyBack { background:#0e141e url(images/Cover_Review.jpg) fixed no-repeat top right; background-size: 100%; }
 #contents { background:#2e353e fixed no-repeat top; background-size:contain; }
 #insight2 { background-color:#2e353e; }
 #insight3 { background-color:#0093e2; }
