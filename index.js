@@ -8,7 +8,7 @@ var chart = c3.generate({
             ['Dialogue', 24],
             ['Consultations', 16],
             ['Collaboration', 19],
-            ['Partnership', 24],
+            ['Partnership', 30],
 
         ],
         type : 'donut'
